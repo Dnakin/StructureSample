@@ -1,0 +1,4 @@
+rootProject.name='Structure Sample'
+include ':app'
+include ':map'
+include ':core'
