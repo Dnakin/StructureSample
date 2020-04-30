@@ -26,5 +26,5 @@ android {
 }
 
 dependencies {
-    implementation project(path: ':storefinder')
+    implementation project(path: ':map')
 }
